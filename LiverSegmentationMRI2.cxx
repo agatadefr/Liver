@@ -1,8 +1,6 @@
 #include "itkImage.h"
 #include "itkImageFileReader.h"
 #include "itkImageFileWriter.h"
-#include "itkConnectedComponentImageFilter.h"
-#include "itkLabelShapeKeepNObjectsImageFilter.h"
 #include "itkRescaleIntensityImageFilter.h"
 #include "itkRegionOfInterestImageFilter.h"
 #include "itkCropImageFilter.h"
